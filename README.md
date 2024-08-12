@@ -29,4 +29,5 @@ Before you begin, ensure you have the following installed:
 - sqlalchemy
 - user_agents
 
-##Sample data can be found in the sample data folder, which contains 500 rows of random generated data.
+## Sample Data 
+Sample data can be found in the sample data folder, which contains 500 rows of random generated data.
